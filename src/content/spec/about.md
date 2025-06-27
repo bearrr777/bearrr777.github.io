@@ -1,9 +1,31 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
 
-::github{repo="saicaca/fuwari"}
+## Whoami
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+TODO
+    
+## 競賽
+
+- 2025/6/27 TryHackMe CTF 待定
+- 2025/6/27 安全達人養成計劃暨資安戰士挑戰賽 | Rank.12
+- AIS3 2025 | Rank.78/344
+- THJCC 2025 | Rank.18
+- SCIST MID | Rank.21
+- THJCC 2024 | Rank.52
+
+## 經歷
+
+- OWASP TOP 3 研習證書
+- SCIST S5 學員
+
+## 技能
+
+- Python
+- C
+- Java
+- Javascript
+- Linux
+- Docker
+- Python flask
+- CTF(Web、Reverse、Pwn)
+- Penetration testing

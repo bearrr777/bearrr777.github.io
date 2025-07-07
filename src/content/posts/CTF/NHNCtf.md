@@ -2,7 +2,7 @@
 title: NHNCtf
 published: 2025-07-08
 description: 'No Hack No CTF Writeup'
-image: './image.png'
+image: './images.png'
 tags: [CTF,Writeup]
 category: 'Writeup'
 draft: false 

@@ -6,6 +6,7 @@ TODO
     
 ## 競賽
 
+- 2025/7/8 No Hack No CTF Rank.17/472 | 台灣隊 Rank.1
 - 2025/6/27 TryHackMe CTF 待定
 - 2025/6/27 安全達人養成計劃暨資安戰士挑戰賽 | Rank.12
 - AIS3 2025 | Rank.78/344

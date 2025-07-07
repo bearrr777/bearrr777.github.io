@@ -245,5 +245,8 @@ NHNC{WTF_NEVER_MADE_Challenges_at_night_especially_when_u_r_sleepy_e98525ca34b24
 
 ## 總結
 
+很幸運搶下所有台灣隊裡面的第一名，當然也不排除厲害的都去出題，總題難度比AIS3 Pre-exam 高上不少，這三天跟隊友24小時不間斷在打題目，白天組解不出來的題目腕上組繼續接手打。
+
 ![image](https://hackmd.io/_uploads/ryj6rLKHll.png)
+
 

@@ -1,5 +1,5 @@
 ---
-title: NHNCtf
+title: No Hack No CTF Writeup
 published: 2025-07-08
 description: 'No Hack No CTF Writeup'
 image: './images.png'

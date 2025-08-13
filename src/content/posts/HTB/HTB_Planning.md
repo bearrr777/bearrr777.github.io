@@ -2,7 +2,7 @@
 title: HackTheBox | Planning (Easy) Write Up
 published: 2025-08-14
 description: 'HackTheBox | Planning (Easy) Write Up'
-image: 'images.jpg'
+image: 'images (1).jpg'
 tags: [HTB,Writeup]
 category: 'Writeup'
 draft: false 
